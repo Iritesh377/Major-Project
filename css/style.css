@@ -1,0 +1,19 @@
+.navbar {
+    background-color: rgb(168, 174, 197);
+
+}
+
+.nav-item {
+    color: rgb(24, 221, 41);
+}
+
+.img-fluid {
+    height: 100px;
+    width: 150px;
+}
+
+#select {
+    width: 100px;
+    border-radius: 5px;
+
+}
